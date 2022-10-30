@@ -1,0 +1,71 @@
+.conatainor{
+        display: flex;
+        border: 2px solid black;
+        background-color:chartreuse;
+        border-radius: 20px;
+        margin-left: 500px;
+        width: 400px;    
+        padding: 20px; 
+        
+}
+.name{
+        font-size: 20px;
+        text-align: center;
+        padding: 2px;
+        color: green;
+        
+}
+.price{
+        
+        font-size: 20px;
+        margin-bottom: 0px;
+        padding: 2px;
+}
+select{
+        border: 2px solid black;
+        border-radius: 5px;
+        padding: 5px;
+        margin: 20px;
+}
+.btny{
+        border: 2px solid black;
+        border-radius: 5px;
+        padding: 5px;
+        margin: 20px;
+}
+.btny:hover{
+        background-color: green;
+        color:white;
+}
+.btnys{
+        border: 2px solid black;
+        border-radius: 5px;
+        padding: 5px;
+        margin: 20px;
+}
+.btnys:hover{
+        background-color:brown;
+        color:white;
+}
+
+.btnC{
+        position: relative;
+        bottom: 1100px;
+        margin-left: 50px;
+        width: 200px;
+        height: 50px;
+        border-radius: 10px;
+        font-size: 32px;
+        background-color:darksalmon;
+        color: white;
+}
+
+ .para{  
+        position: relative;
+        bottom: 1100px;   
+        margin-left: 20px;
+        font-size: 20px;
+        /* margin: 10px; */
+        
+        color:red;
+} 
